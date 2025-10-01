@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![]Worlde2Recording.gif
+![Worlde2Recording.gif]
 
 ## Notes
 
@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Olaoluwa James-Owolabi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
